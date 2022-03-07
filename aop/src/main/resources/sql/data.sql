@@ -1,0 +1,1 @@
+INSERT INTO LANGUAGE (ID, NAME, AUTHOR, FILEEXTENSION) VALUES ('cpp', 'C++', 'Bjarne Stroustrup', 'cs');
